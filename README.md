@@ -323,16 +323,4 @@ https://github.com/Dhruvverma-12
 
 ---
 
-# Support
-
-If you found this project helpful, please consider **starring ⭐ the repository** and sharing your feedback.
-
-Your support helps in creating more Data Analytics & Business Intelligence projects.
-
----
-
-<p align="center">
-
-### 🚀 Turning Data into Actionable Insights with Power BI
-
 </p>
