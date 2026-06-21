@@ -30,8 +30,6 @@ The project demonstrates expertise in:
 
 # Dashboard Preview
 
-> **Dashboard Screenshot**
-
 [Cyber Attack Dashboard](https://github.com/Dhruvverma-12/Cyber-Attack-Analytics-PowerBI-Dashboard/blob/main/Snapshot%20of%20Cyber%20Attack%20Analytics%20Dashboard.png)
 
 
