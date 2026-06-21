@@ -32,9 +32,8 @@ The project demonstrates expertise in:
 
 > **Dashboard Screenshot**
 
-![Cyber Attack Dashboard](assets/dashboard.png)
+![Cyber Attack Dashboard]([assets/dashboard.png](https://github.com/Dhruvverma-12/Cyber-Attack-Analytics-PowerBI-Dashboard/blob/main/Snapshot%20of%20Cyber%20Attack%20Analytics%20Dashboard.png))
 
-> *(Replace the image path with your uploaded dashboard screenshot.)*
 
 ---
 
@@ -256,9 +255,9 @@ Cyber-Attack-Analytics-Dashboard/
 │
 ├── 📊 Cyber-Attack-Analytics-PowerBI-Dashboard.pbix
 ├── 📁 Dataset/
-│   └── 📄 cyber_attack_data.csv
+│   └── 📄 cyber_attack_data.xlsv
 ├── 📁 Assets/
-│   └── 🖼️ dashboard.png
+│   └── 🖼️ Cyber-Attack-Analytics-PowerBI-Dashboard.png
 └── 📄 README.md
 
 ```
