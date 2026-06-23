@@ -1,4 +1,8 @@
-# 🛡️ Cyber Attack Analytics & Trends Dashboard
+<div align="center">
+
+  # 🛡️ Cyber Attack Analytics & Trends Dashboard
+
+<img src="https://github.com/Dhruvverma-12/Cyber-Attack-Analytics-PowerBI-Dashboard/blob/main/Snapshot%20of%20Cyber%20Attack%20Analytics%20Dashboard.png" width="100%">
 
 <p align="center">
 
@@ -7,7 +11,8 @@
 <img src="https://img.shields.io/badge/Interactive-Visualization-success?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge"/>
 
-</p>
+</div>
+
 
 ---
 
